@@ -37,6 +37,7 @@
     </tr>
   </thead>
   <tbody>
+   
     <tr>
       <td><a href="https://github.com/AmalArafa96/-AmalArafa96"><b>AmalArafa96 Repo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/-AmalArafa96?style=flat-square&labelColor=343b41"/></td>
@@ -44,6 +45,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/-AmalArafa96?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/-AmalArafa96?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   
   <tr>
   <td><a href="https://github.com/AmalArafa96/login-project"><b>Login Project</b></a></td>
   <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/login-project?style=flat-square&labelColor=343b41"/></td>
@@ -59,14 +61,15 @@
   <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
   <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
 </tr>
- <tr>
-  <td><a href="https://github.com/AmalArafa96/Weather-App"><b>Ymmy-App
-</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
+
+<tr>
+  <td><a href="https://github.com/AmalArafa96/Ymmy-App"><b>Ymmy-App</b></a></td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
 </tr>
+
 
 
   </tbody>
