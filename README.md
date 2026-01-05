@@ -25,7 +25,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-<h3>Open source projects</h3>
+<h3> projects</h3>
 <table>
   <thead align="center">
     <tr>
@@ -53,9 +53,10 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
  
-  <a href="https://linkedin.com/in/amal-arafa/92amyoka" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/amal-arafa/92amyoka" target="_blank">
+  <img alt="LinkedIn" 
+       src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
   <a href="https://www.facebook.com/share/1BkffPuSPg/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
