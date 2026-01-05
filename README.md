@@ -55,7 +55,7 @@
 </tr>
 
 <tr>
-  <td><a href="https://github.com/AmalArafa96/Ymmy-App"><b>Ymmy-App</b></a></td>
+ <td><a href="https://amalarafa96.github.io/Ymmy-App/" target="_blank"><b>Ymmy-App</b></a></td>
   <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
   <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
   <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
