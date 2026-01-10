@@ -12,7 +12,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Menoufia, Egypt</b>.
 </p>
 
-<h3>Things I code with</h3>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
