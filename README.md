@@ -30,63 +30,9 @@
 </p>
 
 
-<h3> projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-   
-  <tr>
-<td><a href="https://amalarafa96.github.io/login-project/"><b>Login Project</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/login-project?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/login-project?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/login-project?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/login-project?style=flat-square&labelColor=343b41"/></td>
-</tr>
-
- <tr>
-  <td><a href="https://amalarafa96.github.io/Weather-App/"><b>Weather-App</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/Weather-App?style=flat-square&labelColor=343b41"/></td>
-</tr>
-
-<tr>
- <td><a href="https://amalarafa96.github.io/Ymmy-App/" target="_blank"><b>Ymmy-App</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/Ymmy-App?style=flat-square&labelColor=343b41"/></td>
-</tr>
-<tr>
-  <td><a href="https://amalarafa96.github.io/e-commerce/" target="_blank"><b>e-commerce</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/e-commerce?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/e-commerce?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/e-commerce?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/e-commerce?style=flat-square&labelColor=343b41"/></td>
-</tr>
-<tr>
-  <td><a href="https://amalarafa96.github.io/movie-app-master/" target="_blank"><b>movie-app-master</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/AmalArafa96/movie-app-master?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/AmalArafa96/movie-app-master?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/AmalArafa96/movie-app-master?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AmalArafa96/movie-app-master?style=flat-square&labelColor=343b41"/></td>
-</tr>
 
 
 
-
-
-  </tbody>
-</table>
 
 <h3>Contact me</h3>
 <p>
