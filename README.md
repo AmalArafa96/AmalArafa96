@@ -7,7 +7,7 @@ Frontend Developer | React Developer
 
 I focus on clean code, UI/UX, and building real-world projects.
 
----
+
 
 🧠 **About Me**
 💻 Frontend Developer  
@@ -16,7 +16,7 @@ I focus on clean code, UI/UX, and building real-world projects.
 📱 Responsive design  
 🤝 Problem solving  
 
----
+
 
 🛠️ **Tech Stack**
 🚀 Frontend  
@@ -32,7 +32,7 @@ I focus on clean code, UI/UX, and building real-world projects.
 🧱 HTML5  
 🎨 CSS3  
 
----
+
 
 📂 **Projects**
 📌 E-commerce Website (React)  
@@ -42,9 +42,12 @@ I focus on clean code, UI/UX, and building real-world projects.
 📌 Yummy Recipes App (JavaScript / API)  
 📌 Landing Page (Responsive Design)  
 
----
 
-📞 **Contact**  
+
+📞 **Contact** 
+📱 Phone / WhatsApp:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01069934970
+
 📧 Email:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eng.amal.arafa@gmail.com  
 
@@ -54,5 +57,4 @@ I focus on clean code, UI/UX, and building real-world projects.
 🧑‍💻 GitHub:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AmalArafa96  
 
-📱 Phone / WhatsApp:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01069934970
+
