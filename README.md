@@ -55,7 +55,10 @@ Frontend Developer | React.js | Next.js
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eng.amal.arafa@gmail.com  
 
 💼 LinkedIn:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/amal-arafa-92amyoka/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/amal-arafa-92amyoka/
+
+🌐 Portfolio:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://amalarafa96.github.io/amal-portfolio/
 
 🧑‍💻 GitHub:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AmalArafa96  
