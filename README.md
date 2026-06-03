@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 **About Me**
-I am a Frontend Developer.  
-I build simple and responsive websites.  
-I am learning React and improving my skills through real projects.
+- **Frontend Developer**
+- **I build simple and responsive websites**
+- **I am learning React and improving my skills through real projects**
 
 ---
 
