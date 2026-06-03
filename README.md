@@ -1,15 +1,16 @@
 # 👋 Hi, I'm **Amal Arafa**
-# **Frontend Developer | React Developer**
+## **Frontend Developer | React Developer**
 
 ---
 
-## 🚀 **About Me**
-I am a Frontend Developer.
-I build simple and responsive websites.
+### 🚀 **About Me**
+I am a Frontend Developer.  
+I build simple and responsive websites.  
 I am learning React and improving my skills through real projects.
+
 ---
 
-## 🧠 **Skills**
+### 🧠 **Skills**
 
 💻 **Frontend Development**  
 🎨 **CSS3**  
@@ -25,7 +26,7 @@ I am learning React and improving my skills through real projects.
 
 ---
 
-## ⚛️ **React Ecosystem**
+### ⚛️ **React Ecosystem**
 - **React Hooks (useState, useEffect, useMemo, useCallback)**
 - **React Router**
 - **API Handling (Axios / Fetch)**
@@ -34,14 +35,14 @@ I am learning React and improving my skills through real projects.
 
 ---
 
-## 📌 **Currently Learning**
+### 📌 **Currently Learning**
 ⚛️ **Advanced React Concepts**  
 🚀 **Building real-world projects**  
 🧩 **Problem-solving & clean architecture**
 
 ---
 
-## 📂 **Projects**
+### 📂 **Projects**
 - **E-commerce Website (React)**
 - **Portfolio Website**
 - **Weather App**
@@ -49,10 +50,9 @@ I am learning React and improving my skills through real projects.
 - **Yummy Recipes App (JavaScript / API)**
 - **Landing Page (Responsive Design)**
 
-
 ---
 
-## 📞 **Contact Me**
+### 📞 **Contact Me**
 📧 **Email:** eng.amal.arafa@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/amal-arafa-92amyoka/  
 🧑‍💻 **GitHub:** https://github.com/AmalArafa96  
