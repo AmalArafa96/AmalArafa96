@@ -9,9 +9,7 @@ Frontend Developer | React Developer
 
 📚 I am continuously learning and improving my skills in React and modern frontend technologies.
 
-⚛️ I enjoy working with React, Next.js, and building reusable components.
 
-🎯 My goal is to create smooth and user-friendly web experiences.
 
 
 
