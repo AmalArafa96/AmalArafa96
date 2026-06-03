@@ -9,7 +9,7 @@ Frontend Developer | React Developer
 
 📚 I am continuously learning and improving my skills in React and modern frontend technologies.
 
-
+---
 
 
 
@@ -20,7 +20,7 @@ Frontend Developer | React Developer
 📱 Responsive design  
 🤝 Problem solving  
 
-
+---
 
 🛠️ **Tech Stack**
 🚀 Frontend  
@@ -36,7 +36,7 @@ Frontend Developer | React Developer
 🧱 HTML5  
 🎨 CSS3  
 
-
+---
 
 📂 **Projects**
 📌 E-commerce Website (React)  
@@ -46,7 +46,7 @@ Frontend Developer | React Developer
 📌 Yummy Recipes App (JavaScript / API)  
 📌 Landing Page (Responsive Design)  
 
-
+---
 
 📞 **Contact** 
 📱 Phone / WhatsApp:<br/>
