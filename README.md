@@ -49,10 +49,10 @@ I focus on clean code, UI/UX, and building real-world projects.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eng.amal.arafa@gmail.com  
 
 💼 LinkedIn:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsphttps://www.linkedin.com/in/amal-arafa-92amyoka/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/amal-arafa-92amyoka/  
 
 🧑‍💻 GitHub:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsphttps://github.com/AmalArafa96  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AmalArafa96  
 
 📱 Phone / WhatsApp:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp01069934970
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01069934970
