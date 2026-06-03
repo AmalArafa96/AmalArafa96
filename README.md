@@ -1,11 +1,17 @@
 👋 **Amal Arafa**  
 Frontend Developer | React Developer
 
----
+
 
 🚀 **Frontend Developer passionate about building modern, responsive web applications**
 
-I focus on clean code, UI/UX, and building real-world projects.
+💡 I focus on clean code, UI/UX, and building real-world projects.
+
+📚 I am continuously learning and improving my skills in React and modern frontend technologies.
+
+⚛️ I enjoy working with React, Next.js, and building reusable components.
+
+🎯 My goal is to create smooth and user-friendly web experiences.
 
 
 
