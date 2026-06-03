@@ -1,7 +1,7 @@
 👋 **Amal Arafa**  
-Frontend Developer | React Developer
+Frontend Developer | React.js | Next.js
 
-
+---
 
 🚀 **Frontend Developer passionate about building modern, responsive web applications**
 
@@ -10,8 +10,6 @@ Frontend Developer | React Developer
 📚 I am continuously learning and improving my skills in React and modern frontend technologies.
 
 ---
-
-
 
 🧠 **About Me**
 💻 Frontend Developer  
@@ -48,17 +46,8 @@ Frontend Developer | React Developer
 
 ---
 
-📞 **Contact** 
-📱 Phone / WhatsApp:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01069934970
-
-📧 Email:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eng.amal.arafa@gmail.com  
-
-💼 LinkedIn:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/amal-arafa-92amyoka/  
-
-🧑‍💻 GitHub:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AmalArafa96  
-
-
+📞 **Contact**
+📱 WhatsApp: 01069934970  
+📧 Email: eng.amal.arafa@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/amal-arafa-92amyoka/  
+🧑‍💻 GitHub: https://github.com/AmalArafa96  
