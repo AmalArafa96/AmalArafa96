@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 **About Me**
-I build websites that are simple, responsive, and easy to use.
-I enjoy learning new things in web development and improving my skills step by step.
-I like turning ideas into real projects.
+I am a Frontend Developer.
+I build simple and responsive websites.
+I am learning React and improving my skills through real projects.
 ---
 
 ## 🧠 **Skills**
