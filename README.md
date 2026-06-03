@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Amal Arafa**
-### **Frontend Developer | React Developer**
+# **Frontend Developer | React Developer**
 
 ---
 
