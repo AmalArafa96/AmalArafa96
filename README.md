@@ -1,9 +1,9 @@
-👋 **Amal Arafa**  
+👋 **Amal Arafa**  <br/>
 Frontend Developer | React.js | Next.js
 
 ---
 
-🚀 **Frontend Developer passionate about building modern, responsive web applications**
+🚀 **Frontend Developer passionate about building modern, responsive web applications**<br/>
 
 💡 I focus on clean code, UI/UX, and building real-world projects.
 
@@ -11,7 +11,7 @@ Frontend Developer | React.js | Next.js
 
 ---
 
-🧠 **About Me**
+🧠 **About Me**<br/>
 💻 Frontend Developer  
 ⚛️ React.js Developer  
 🎨 UI/UX focused  
@@ -20,7 +20,7 @@ Frontend Developer | React.js | Next.js
 
 ---
 
-🛠️ **Tech Stack**
+🛠️ **Tech Stack**<br/>
 🚀 Frontend  
 ⚛️ React.js  
 ▲ Next.js  
@@ -36,7 +36,7 @@ Frontend Developer | React.js | Next.js
 
 ---
 
-📂 **Projects**
+📂 **Projects**<br/>
 📌 E-commerce Website (React)  
 📌 Portfolio Website  
 📌 Weather App  
