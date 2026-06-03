@@ -46,8 +46,16 @@ Frontend Developer | React.js | Next.js
 
 ---
 
-📞 **Contact**
-📱 WhatsApp: 01069934970  
-📧 Email: eng.amal.arafa@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/amal-arafa-92amyoka/  
-🧑‍💻 GitHub: https://github.com/AmalArafa96  
+📞 **Contact**<br/>
+
+📱 Phone / WhatsApp:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01069934970  
+
+📧 Email:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eng.amal.arafa@gmail.com  
+
+💼 LinkedIn:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/amal-arafa-92amyoka/  
+
+🧑‍💻 GitHub:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/AmalArafa96  
